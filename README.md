@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **duhanlu/duhanlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 Email me: freyadu99@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Always try out lots of things, always being open-minded
--->
+
