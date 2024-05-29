@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 - 🔭 I’m currently working on Machine learning Project: Speech Emotion Recognition
@@ -8,7 +8,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Always try out lots of things, always being open-minded
 
-## Projects 
+### Projects 
 1. Image Classification
 2. Stock Price Prediction
 3. Unsupervised GANs model to generate image
