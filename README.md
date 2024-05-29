@@ -9,8 +9,8 @@
 - ⚡ Fun fact: Always try out lots of things, always being open-minded
 
 ### Projects 
-1. Image Classification
-2. Stock Price Prediction
-3. Unsupervised GANs model to generate image
+1. Image Classification: [Link to repository](https://github.com/duhanlu/ImageClassification)
+2. Stock Price Prediction: [Link to repository](https://github.com/duhanlu/ml_project)
+3. Unsupervised GANs model to generate image: [Link to repository](https://github.com/duhanlu/AML-project)
 
 
